@@ -51,7 +51,7 @@ button:hover{
 }
 #hero{
     background-color:transparent;
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("resources/hero-image.jpg");
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("hero-image.jpg");
     background-size:200rem;
     display:flex;
     flex-direction:column;
