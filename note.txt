@@ -1,0 +1,25 @@
+<!-- <video src="resources\video-tv-in-0819.m4v" autoplay loop type="video/mp4"></video>
+         <img src="resources\device-pile-in.png" alt=""> -->
+
+/* #main{
+   
+  
+    overflow: hidden;
+    position: relative;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+#main img{
+    height:100%;
+    width: 100%;
+    z-index:100;
+}
+#main video{
+    position: absolute;
+    top:0%;
+    height:63%;
+    width:63%;
+    
+
+     */
